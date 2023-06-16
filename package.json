@@ -1,5 +1,5 @@
 {
-  "name": "json_crud",
+  "name": "json_juliogeek",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jjrh92/JSON_CRUD.git"
+    "url": "git+https://github.com/jjrh92/JSON_julioGeek.git"
   },
   "keywords": [],
   "author": "Julio Reyes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jjrh92/JSON_CRUD/issues"
+    "url": "https://github.com/jjrh92/JSON_julioGeek/issues"
   },
-  "homepage": "https://github.com/jjrh92/JSON_CRUD#readme",
+  "homepage": "https://github.com/jjrh92/JSON_julioGeek#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
